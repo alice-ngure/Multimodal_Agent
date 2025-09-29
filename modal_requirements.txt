@@ -1,0 +1,28 @@
+# Core packages
+sentence-transformers
+faiss-cpu
+pillow
+pytesseract
+pdfplumber
+PyMuPDF
+transformers
+accelerate
+timm
+
+# Audio transcription
+openai-whisper
+faster-whisper
+
+# Optional local LLM
+llama-cpp-python
+
+# Streamlit (optional UI)
+streamlit
+
+# TTS
+gTTS
+pyttsx3
+
+# Visualization / PDF generation
+reportlab
+matplotlib
